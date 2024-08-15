@@ -9,6 +9,6 @@ Uma aplicação web que permite aos usuários buscar e visualizar informações 
 ## Tecnologias Utilizadas
 • HTML  
 • CSS  
-• JavaScript
+• JavaScript  
 • PokéAPI - API externa.
 
